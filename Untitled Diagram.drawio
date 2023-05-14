@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T12:16:41.988Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" version="21.3.0" etag="8g6uuW5ybGbFgxdDo4jX" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-14T12:31:44.229Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="T_EP8cG9c90fTB9TmIIr" version="21.3.0" type="github">
   <diagram name="Page-1" id="fvHsxeP6RRH_1oPy0Cxf">
-    <mxGraphModel>
+    <mxGraphModel dx="1730" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="muZhV8f-xpuC4gIWEB2R-2" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;u&gt;bi-db cluster object&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;i&gt;namely:&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&quot;nodes&quot;:str[],&lt;/div&gt;&lt;div&gt;&quot;distances&quot;:[&lt;/div&gt;&lt;div&gt;{&#39;source&#39;:objectId, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&#39;target:objectId, &lt;br&gt;&lt;/div&gt;&lt;div&gt;distance:int}...]&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=left;spacingLeft=14;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="75" width="140" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="muZhV8f-xpuC4gIWEB2R-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="100" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="muZhV8f-xpuC4gIWEB2R-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="100" width="130" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
